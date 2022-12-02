@@ -1,4 +1,4 @@
-Hello, I'm Vitor.<br><br>I'm a full-stack Developer from Brazil, 24 years old and almost a year of coding aiming to create solutions to real-world problems and deliver great user experiences.<br><br>🔭 I’m currently working mainly with Angular and Firebase.<br>🌱 I’m currently learning Clean Code, Design Patterns and AWS<br>💬 Ask me about anything, I am happy to help;
+Hello, I'm Vitor.<br><br>I'm a full-stack Developer from Brazil, 24 years old and almost a year of coding aiming to create solutions to real-world problems and deliver great user experiences.<br><br>🔭 I’m currently working mainly with Angular and Java.<br>🌱 I’m currently learning Clean Code, Design Patterns and AWS<br>💬 Ask me about anything, I am happy to help;
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vitorpfranco/) 
